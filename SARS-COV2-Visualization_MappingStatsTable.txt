@@ -1,0 +1,13 @@
+++_/opt/bowtie2/bowtie2_-p_42_-x_tmp_-1_SRR13565666_1.fq_-2_SRR13565666_2.fq_--maxins_1000_--local_--no-discordant	++_/opt/bowtie2/bowtie2_-p_42_-x_tmp_-1_SRR13565667_1.fq_-2_SRR13565667_2.fq_--maxins_1000_--local_--no-discordant
+92346_reads;_of_these:	124415_reads;_of_these:
+__92346_(100.00%)_were_paired;_of_these:	__124415_(100.00%)_were_paired;_of_these:
+____27151_(29.40%)_aligned_concordantly_0_times	____5911_(4.75%)_aligned_concordantly_0_times
+____58553_(63.41%)_aligned_concordantly_exactly_1_time	____116997_(94.04%)_aligned_concordantly_exactly_1_time
+____6642_(7.19%)_aligned_concordantly_>1_times	____1507_(1.21%)_aligned_concordantly_>1_times
+____----	____----
+____27151_pairs_aligned_0_times_concordantly_or_discordantly;_of_these:	____5911_pairs_aligned_0_times_concordantly_or_discordantly;_of_these:
+______54302_mates_make_up_the_pairs;_of_these:	______11822_mates_make_up_the_pairs;_of_these:
+________52826_(97.28%)_aligned_0_times	________8793_(74.38%)_aligned_0_times
+________1375_(2.53%)_aligned_exactly_1_time	________2996_(25.34%)_aligned_exactly_1_time
+________101_(0.19%)_aligned_>1_times	________33_(0.28%)_aligned_>1_times
+71.40%_overall_alignment_rate	96.47%_overall_alignment_rate
